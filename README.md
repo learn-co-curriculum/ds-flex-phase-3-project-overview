@@ -81,14 +81,14 @@ Schedule your review using the Phase 2 Project Booking Page [(https://go.oncehub
 1. First, confirm your auto-detected time zone and then select Continue
    
 
-![Confirm your time zone.](./images/scheduling-example-1.png)
+![Confirm your time zone.](https://raw.githubusercontent.com/learn-co-curriculum/ds-flex-phase-3-project-overview/main/images/scheduling-example-1.png)
 2. Then, on the calendar that appears, select a timeslot from the calendar
    
 
-![Select a timeslot](./images/scheduling-example-2.png)
+![Select a timeslot](https://raw.githubusercontent.com/learn-co-curriculum/ds-flex-phase-3-project-overview/main/images/scheduling-example-2.png)
 
 3. After selecting a time slot you should see a form requesting information about you and your project materials. **Please note the third line of the form, which indicates the Team Member that your appointment will be with. If the selected timeslot is with your assigned One-on-One Lead, then please select another timeslot.** 
-**![Project scheduling form - check the Team Member field](./images/scheduling-example-3.png)**
+**![Project scheduling form - check the Team Member field](https://raw.githubusercontent.com/learn-co-curriculum/ds-flex-phase-3-project-overview/main/images/scheduling-example-3.png)**
 
 
 
