@@ -74,7 +74,7 @@ Submitting Your Project on Canvas
 ### Scheduling Your Review
 
 
-Schedule your review using the Phase 3 Project Booking Page [(https://go.oncehub.com/ODSPhase3ProjectReviews)](https://go.oncehub.com/ODSPhase2ProjectReviews)
+Schedule your review using the Phase 3 Project Booking Page [(https://go.oncehub.com/ODSPhase3ProjectReviews)](https://go.oncehub.com/ODSPhase3ProjectReviews)
 
 
 
