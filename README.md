@@ -5,7 +5,7 @@
 After completing Topics 21-32, you should be all set to tackle the Phase 3 Project! [[Assignment Link 🔗 ]()]
 
 
-The Phase 2 Project is your first classification project, where you will build and tune machine learning classification models to answer stakeholder questions and provide additional insights. 
+The Phase 3 Project is your first classification project, where you will build and tune machine learning classification models to answer stakeholder questions and provide additional insights. 
 
 
 Overall the project should take 20-40 hours to complete. To stay on pace, you should aim to complete the project in the following # of weeks:
@@ -64,9 +64,9 @@ Submitting Your Project on Canvas
 
 * You will turn in your project materials on 2 Canvas assignments:
 	+ The GitHub Repo Link is uploaded here:
-		- [Phase 3 Project - GitHub Repository URL🔗 ]("Phase 2 Project - GitHub Repository URL")
+		- [Phase 3 Project - GitHub Repository URL🔗 ]("Phase 3 Project - GitHub Repository URL")
 	+ The PDF Exports of Your Notebook, Presentation, and README are uploaded here:
-		- [Phase 3 Project Assignment🔗 ]("Phase 2 Project")
+		- [Phase 3 Project Assignment🔗 ]("Phase 3 Project")
 * For additional instructions on submitting your project pdfs on canvas see:
 	+ [Project Submission & Review (Online)🔗 ]("Project Submission & Review (Online)")
 
@@ -74,7 +74,7 @@ Submitting Your Project on Canvas
 ### Scheduling Your Review
 
 
-Schedule your review using the Phase 2 Project Booking Page [(https://go.oncehub.com/ODSPhase3ProjectReviews)](https://go.oncehub.com/ODSPhase2ProjectReviews)
+Schedule your review using the Phase 3 Project Booking Page [(https://go.oncehub.com/ODSPhase3ProjectReviews)](https://go.oncehub.com/ODSPhase2ProjectReviews)
 
 
 
