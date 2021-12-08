@@ -50,7 +50,7 @@ Getting Started:
 When you're ready to begin the project, we recommend you do three things:
 
 
-1. Message your One-on-One Lead on Slack and indicate you've begun the project.
+1. Message your One-on-One Lead on Slack and indicate you've completed the Project Proposal. Once the instructor grades the proposal, you will be granted access to the Project Submission Pages.
 	- **If you are going to choose your own dataset, you must get it approved by your instructor!**
 		- Check the Phase 3 Project Assignment for the requirements.
 2. Create your GitHub repository where you can save all of your work
