@@ -2,14 +2,9 @@
 -------------------------
 
 
-After completing Topics 21-32, you should be all set to tackle the Phase 3 Project! [[Assignment Link 🔗 ]()]
-
-
-The Phase 3 Project is your first classification project, where you will build and tune machine learning classification models to answer stakeholder questions and provide additional insights. 
-
+You are now all set to tackle the Phase 3 Project! [[Assignment Link 🔗 ]()]
 
 Overall the project should take 20-40 hours to complete. To stay on pace, you should aim to complete the project in the following # of weeks:
-
 
 * 20-week pace: 1 week
 * 40-week pace: 2 weeks
